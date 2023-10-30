@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Abdulazeez Oluwatoyin Ayinla</h1>
+<h1 align="center">Hey Everyone 👋, I'm Abdulazeez Oluwatoyin Ayinla</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/hayzed-developer/hayzed-developer/blob/main/hayzed-developer.jpg </div>
 <h3 align="center">I am a freelance Fullstack web developer who builds elegant, fast, and scalable web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayzed-developer&label=Profile%20views&color=0e75b6&style=flat" alt="hayzed-developer" /> </p>
 
-- 🔭 I’m currently working on [School website](file:///C:/Users/Tree/Desktop/Practice/LEARNING/School%20Website/hayzeduniversity.html#News_link)
+- 🔭 I’m currently working on [School website].
 
 - 🌱 I’m currently learning **Javacsript & PHP**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Tree/Desktop/Practice/LEARNING/boostrap/portfolio/portfolio.html](file:///C:/Users/Tree/Desktop/Practice/LEARNING/boostrap/portfolio/portfolio.html)
+- 👨‍💻 All of my projects are available at (https://github.com/hayzed-developer)
 
 - 💬 Ask me about **html, css, Boostrap, php and Javascript**
 
